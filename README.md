@@ -1,4 +1,5 @@
 # PDI_Tarea1
-## Instrucciones de uso
-*
-*
+## Contenido
+* Desarrollo
+* Instrucciones de uso
+* Integrante
