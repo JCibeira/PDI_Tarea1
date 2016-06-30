@@ -10,7 +10,7 @@ Esta tarea fue desarrollada en el lenguaje C++ en Visual Studio Community 2015.
 
 ## Instrucciones de ejecucion
 * Windows:
-Puede ser ejecutado como un .exe ubicado en la carpeta bin (como requerimiento debes tener Visual Studio Community 2015 instalado con el paquete de Visual C++).
+Puede ser ejecutado como un .exe ubicado en la carpeta bin (como requerimiento debes tener Visual Studio Community 2015 instalado con el paquete de Visual C++). Tambien puede abrirse en Visual Studio y recompilarse.
 * Linux:
 Puede ser ejecutada desde la terminal en linux ejecutando el siguiente comando: g++ main.cpp -o p1 (como requerimiento debes estar posicionado en el directorio donde se encuente main.cpp).
 
